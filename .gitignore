@@ -6,3 +6,4 @@ img
 *.traineddata
 Split
 text
+.env

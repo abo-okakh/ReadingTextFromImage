@@ -1,5 +1,6 @@
+require('dotenv').config();
 let Marcus_authoritative_and_deep = 'KvgnJ4GfGOIqafMqcSlO';
-let key = '1234' //11labs api key
+const key = process.env.KEY;
 // let pathtext = 'text/text.txt'
 const tts = require('./tts11labs.js')
 const pdf2img = require('pdf-img-convert')
