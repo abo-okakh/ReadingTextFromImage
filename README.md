@@ -1,5 +1,3 @@
-Certainly! Here's the full README file that you can copy and paste:
-
 ```markdown
 # ReadTextFromImage
 
